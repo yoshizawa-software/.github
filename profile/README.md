@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/mgzawa7x/yoshizawa@main/ByQ.jpg" width="180" alt="Yoshikawa Softwares"/>
-  <p><strong>Yoshizawa Softwares</strong></p>
+  <p><strong>Yoshizawa Software</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Feito%20com-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-  <sub>© 2026 Yoshizawa Softwares · Todos os direitos reservados.</sub>
+  <sub>© 2026 Yoshizawa Software · Todos os direitos reservados.</sub>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffa0ce&height=120&section=footer"/>
