@@ -1,2 +1,2 @@
 # .github
-Yoshizawa Softwares organization profile
+Yoshizawa Software organization profile
